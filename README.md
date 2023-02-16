@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently studying **Front-End Development**
 
-- 🌱 I’m currently learning **SaSS**
+- 🌱 I’m currently learning **SASS**
 
-- :mortar_board: Technologies I want to learn next are **SASS**, **Tailwind** and **JavaScript**
+- :mortar_board: Technologies I want to learn next are **SASS** and **JavaScript**
 
 - :mag: Check out my projects on [Frontend Mentor](https://www.frontendmentor.io/profile/JackoWill)
 
