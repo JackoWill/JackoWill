@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently studying **Front-End Development**
 
-- 🌱 I’m currently learning **CSS** & **Responsive Design**
+- 🌱 I’m currently learning **SaSS**
 
 - :mortar_board: Technologies I want to learn next are **SASS**, **Tailwind** and **JavaScript**
 
